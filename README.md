@@ -1,0 +1,2 @@
+# CFChildController
+uisegment控制的切换多个controller
